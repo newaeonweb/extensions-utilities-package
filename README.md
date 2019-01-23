@@ -54,7 +54,7 @@ Extension bundle for Visual Studio Code including: productivity tools, Angular s
 
 [Line Indicator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator): Highlights your current indent depth.
 
-> [VS Code CSS Comments](https://marketplace.visualstudio.com/items?itemName=ashhitch.vs-code-css-comments): CSS comments made easy and consistent with these VS Code Snippets.
+[VS Code CSS Comments](https://marketplace.visualstudio.com/items?itemName=ashhitch.vs-code-css-comments): CSS comments made easy and consistent with these VS Code Snippets.
 
 [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag): Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
 
