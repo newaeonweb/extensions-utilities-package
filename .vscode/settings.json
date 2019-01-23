@@ -1,0 +1,81 @@
+{
+  "editor.fontSize": 15,
+  "editor.fontWeight": "500",
+  "workbench.colorTheme": "Monokai",
+  "terminal.integrated.fontSize": 14,
+  "window.zoomLevel": 0,
+  "emmet.syntaxProfiles": {
+    "erb": "html"
+  },
+  "emmet.showAbbreviationSuggestions": true,
+  "emmet.showExpandedAbbreviation": "always",
+  "emmet.includeLanguages": {
+    "erb": "html",
+    "html.erb": "html"
+  },
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": true,
+  "workbench.iconTheme": "vscode-icons",
+  "vsicons.presets.angular": true,
+  "vsicons.projectDetection.disableDetect": true,
+  "vsicons.projectDetection.autoReload": false,
+  "github-pr.accessToken": "a7a9664e8605ade105ecf4c84b31bae2a7097b46",
+  "sasslint.configFile": "",
+  "prettier.singleQuote": true,
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "gitlens.gitExplorer.files.layout": "tree",
+  "gitlens.keymap": "chorded",
+  "gitlens.advanced.messages": {
+      "suppressCommitHasNoPreviousCommitWarning": false,
+      "suppressCommitNotFoundWarning": false,
+      "suppressFileNotUnderSourceControlWarning": false,
+      "suppressGitVersionWarning": false,
+      "suppressLineUncommittedWarning": false,
+      "suppressNoRepositoryWarning": false,
+      "suppressResultsExplorerNotice": false,
+      "suppressShowKeyBindingsNotice": true
+  },
+  "gitlens.settings.mode": "advanced",
+  "gitlens.menus": {
+      "editor": {
+          "blame": true,
+          "clipboard": true,
+          "compare": true,
+          "details": true,
+          "history": true,
+          "remote": true
+      },
+      "editorGroup": {
+          "blame": true,
+          "compare": true,
+          "history": false,
+          "remote": false
+      },
+      "editorTab": {
+          "compare": false,
+          "history": false,
+          "remote": true
+      },
+      "explorer": {
+          "compare": true,
+          "history": true,
+          "remote": true
+      }
+  },
+  "gitlens.historyExplorer.enabled": true,
+  "gitlens.views.repositories.files.layout": "tree",
+  "gitlens.views.fileHistory.enabled": true,
+  "gitlens.views.lineHistory.enabled": true,
+  "[markdown]": {
+    "editor.quickSuggestions": true
+  },
+  "markdown.extension.toc.githubCompatibility": true,
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "tslint.enable": true,
+  "typescript.validate.enable": true,
+  "javascript.implicitProjectConfig.experimentalDecorators": true,
+  "typescript.updateImportsOnFileMove.enabled": "always"
+}
