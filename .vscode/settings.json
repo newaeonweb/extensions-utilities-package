@@ -74,7 +74,6 @@
   "css.validate": false,
   "less.validate": false,
   "scss.validate": false,
-  "tslint.enable": true,
   "typescript.validate.enable": true,
   "javascript.implicitProjectConfig.experimentalDecorators": true,
   "typescript.updateImportsOnFileMove.enabled": "always"
