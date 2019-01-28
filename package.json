@@ -2,7 +2,7 @@
   "name": "extension-utilities-pack",
   "displayName": "Angular, Git, Github, Rails, Ruby utilities package",
   "description": "Vscode extensions bundle including: productivity tools, Angular snippets, Linters for: SCSS, TypeScript, stylelint, Git and Github utilities and code completion",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "icon": "images/angular_logo.png",
   "publisher": "newaeonweb",
