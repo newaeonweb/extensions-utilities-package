@@ -64,6 +64,8 @@ Extension bundle for Visual Studio Code including: productivity tools, Angular s
 
 [HTML SCSS Support](https://marketplace.visualstudio.com/items?itemName=P-de-Jong.vscode-html-scss): SCSS support for HTML documents.
 
+[Auto Trim WhiteSpaces](https://marketplace.visualstudio.com/items?itemName=NathanRidley.autotrim): Automatically trims trailing whitespace when moving the cursor from one line to another.
+
 #### Refactoring
 
 [JS Refactor](https://marketplace.visualstudio.com/items?itemName=cmstead.jsrefactor): Automated refactoring tools to smooth your development workflow.
