@@ -24,7 +24,7 @@ Extension bundle for Visual Studio Code including: productivity tools, Angular s
 
 [Stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint): Lint CSS/SCSS/Less with stylelint.
 
-[TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint): TSLint for Visual Studio Code.
+[TypeScript TSLint Plugin](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin): Provides TSLint support using the typescript-tslint-plugin. **Important: If you also have the vscode-tslint extension in VS Code installed, please disable it to avoid linting files twice.**
 
 #### Intellisense
 
