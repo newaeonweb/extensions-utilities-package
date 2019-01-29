@@ -21,15 +21,13 @@
       "Extension Packs"
   ],
   "keywords" : [
-      "Angular",
       "Angular 2",
-      "Angular 4",
-      "Angular 5",
-      "Angular 6",
       "Angular 7",
+      "TypeScript",
       "Github",
       "Git",
-      "Docker"
+      "Docker",
+      "HTML"
   ],
   "extensionPack": [
     "jakethashi.vscode-angular2-emmet",
